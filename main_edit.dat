@@ -1,0 +1,8 @@
+Sun                            <-- estrela escolhida (para..?)
+T 0.02 5.0 1.0 0.12            <-- --,calculation step,--,--,fwhm
+1.0                            <--
+5777.0 4.44 0.0 0.08511 1      <-- Teff,log g, [Z/H], vel.microturbulência, abundância de He,cos ang.
+F 1.0                          <-- 
+0.0
+flux                           <-- prefixo dos espectros a serem salvos (são 3: conv,norm e espectro)
+6530.0 6590.0 10.0             <-- lambda min,lambda max,sub-interval

@@ -1,0 +1,243 @@
+[INFO    ] *********************************************
+[INFO    ] *** Session started @ 2018-07-03 14:38:30 ***
+[INFO    ] *********************************************
+[INFO    ] $ Logging to console $
+[INFO    ] $ Logging to file 'python.log' $
+[INFO    ] Considering file 'abonds.dat' ...
+[INFO    ]    ... file copied
+[INFO    ] Considering file 'dissoc.dat' ...
+[INFO    ]    ... file copied
+[INFO    ] Considering file 'main.dat' ...
+[INFO    ]    ... file copied
+[INFO    ] *********************************************
+[INFO    ] *** Session started @ 2018-07-03 14:38:48 ***
+[INFO    ] *********************************************
+[INFO    ] $ Logging to console $
+[INFO    ] $ Logging to file 'python.log' $
+[INFO    ] Considering file 'atoms.dat' ...
+[INFO    ]    ... created link
+[INFO    ] Considering file 'absoru2.dat' ...
+[INFO    ]    ... created link
+[INFO    ] Considering file 'partit.dat' ...
+[INFO    ]    ... created link
+[INFO    ] Considering file 'hmap.dat' ...
+[INFO    ]    ... created link
+[INFO    ] Considering file 'molecules.dat' ...
+[INFO    ]    ... created link
+[INFO    ] Considering file 'grid.mod' ...
+[INFO    ]    ... created link
+[INFO    ] Considering file 'grid.moo' ...
+[INFO    ]    ... created link
+[INFO    ] *********************************************
+[INFO    ] *** Session started @ 2018-07-03 14:39:12 ***
+[INFO    ] *********************************************
+[INFO    ] $ Logging to console $
+[INFO    ] $ Logging to file 'python.log' $
+[INFO    ] Session directory: session-0
+[INFO    ] *********************************************
+[INFO    ] *** Session started @ 2018-07-03 14:39:37 ***
+[INFO    ] *********************************************
+[INFO    ] $ Logging to console $
+[INFO    ] $ Logging to file 'python.log' $
+[INFO    ] Imported collaborator package 'f311'
+[INFO    ] Imported collaborator package 'pyfant'
+[WARNING ] Failed to import package 'aosss
+[WARNING ] Failed to import package 'convmolworks
+[WARNING ] Failed to import package 'ariastro
+[INFO    ] *********************************************
+[INFO    ] *** Session started @ 2018-07-09 18:03:59 ***
+[INFO    ] *********************************************
+[INFO    ] $ Logging to console $
+[INFO    ] $ Logging to file 'python.log' $
+[INFO    ] AUTO LOAD: max file size: 1.25829e+06
+[INFO    ] Imported collaborator package 'f311'
+[INFO    ] Imported collaborator package 'pyfant'
+[WARNING ] Failed to import package 'aosss
+[WARNING ] Failed to import package 'convmolworks
+[WARNING ] Failed to import package 'ariastro
+[INFO    ] *********************************************
+[INFO    ] *** Session started @ 2018-07-10 10:00:17 ***
+[INFO    ] *********************************************
+[INFO    ] $ Logging to console $
+[INFO    ] $ Logging to file 'python.log' $
+[INFO    ] AUTO LOAD: max file size: 1.25829e+06
+[INFO    ] Imported collaborator package 'f311'
+[INFO    ] Imported collaborator package 'pyfant'
+[WARNING ] Failed to import package 'aosss
+[WARNING ] Failed to import package 'convmolworks
+[WARNING ] Failed to import package 'ariastro
+[INFO    ] Loading './molecules.dat': [+........................] 1/21 - 4.8%
+[INFO    ] Loading './molecules.dat': [++.......................] 2/21 - 9.5%
+[INFO    ] Loading './molecules.dat': [++++.....................] 3/21 - 14.3%
+[INFO    ] Loading './molecules.dat': [+++++....................] 4/21 - 19.0%
+[INFO    ] Loading './molecules.dat': [++++++...................] 5/21 - 23.8%
+[INFO    ] Loading './molecules.dat': [+++++++..................] 6/21 - 28.6%
+[INFO    ] Loading './molecules.dat': [++++++++.................] 7/21 - 33.3%
+[INFO    ] Loading './molecules.dat': [++++++++++...............] 8/21 - 38.1%
+[INFO    ] Loading './molecules.dat': [+++++++++++..............] 9/21 - 42.9%
+[INFO    ] Loading './molecules.dat': [++++++++++++.............] 10/21 - 47.6%
+[INFO    ] Loading './molecules.dat': [+++++++++++++............] 11/21 - 52.4%
+[INFO    ] Loading './molecules.dat': [++++++++++++++...........] 12/21 - 57.1%
+[INFO    ] Loading './molecules.dat': [+++++++++++++++..........] 13/21 - 61.9%
+[INFO    ] Loading './molecules.dat': [+++++++++++++++++........] 14/21 - 66.7%
+[INFO    ] Loading './molecules.dat': [++++++++++++++++++.......] 15/21 - 71.4%
+[INFO    ] Loading './molecules.dat': [+++++++++++++++++++......] 16/21 - 76.2%
+[INFO    ] Loading './molecules.dat': [++++++++++++++++++++.....] 17/21 - 81.0%
+[INFO    ] Loading './molecules.dat': [+++++++++++++++++++++....] 18/21 - 85.7%
+[INFO    ] Loading './molecules.dat': [+++++++++++++++++++++++..] 19/21 - 90.5%
+[INFO    ] Loading './molecules.dat': [++++++++++++++++++++++++.] 20/21 - 95.2%
+[INFO    ] Loading './molecules.dat': [+++++++++++++++++++++++++] 21/21 - 100.0%
+[INFO    ] *********************************************
+[INFO    ] *** Session started @ 2018-07-10 14:40:25 ***
+[INFO    ] *********************************************
+[INFO    ] $ Logging to console $
+[INFO    ] $ Logging to file 'python.log' $
+[INFO    ] AUTO LOAD: max file size: 1.25829e+06
+[INFO    ] Imported collaborator package 'f311'
+[INFO    ] Imported collaborator package 'pyfant'
+[WARNING ] Failed to import package 'aosss
+[WARNING ] Failed to import package 'convmolworks
+[WARNING ] Failed to import package 'ariastro
+[INFO    ] AUTO LOAD: max file size: 1.25829e+06
+[INFO    ] *********************************************
+[INFO    ] *** Session started @ 2018-07-10 15:04:08 ***
+[INFO    ] *********************************************
+[INFO    ] $ Logging to console $
+[INFO    ] $ Logging to file 'python.log' $
+[INFO    ] AUTO LOAD: max file size: 1.25829e+06
+[INFO    ] Imported collaborator package 'f311'
+[INFO    ] Imported collaborator package 'pyfant'
+[WARNING ] Failed to import package 'aosss
+[WARNING ] Failed to import package 'convmolworks
+[WARNING ] Failed to import package 'ariastro
+[INFO    ] AUTO LOAD: max file size: 1.25829e+06
+[INFO    ] AUTO LOAD: max file size: 1.25829e+06
+[INFO    ] AUTO LOAD: max file size: 1.25829e+06
+[INFO    ] AUTO LOAD: max file size: 105978
+[INFO    ] AUTO LOAD: max file size: 1.25829e+06
+[INFO    ] AUTO LOAD: max file size: 105978
+[INFO    ] *********************************************
+[INFO    ] *** Session started @ 2018-07-10 17:16:37 ***
+[INFO    ] *********************************************
+[INFO    ] $ Logging to console $
+[INFO    ] $ Logging to file 'python.log' $
+[INFO    ] AUTO LOAD: max file size: 1.25829e+06
+[INFO    ] Imported collaborator package 'f311'
+[INFO    ] Imported collaborator package 'pyfant'
+[WARNING ] Failed to import package 'aosss
+[WARNING ] Failed to import package 'convmolworks
+[WARNING ] Failed to import package 'ariastro
+[INFO    ] AUTO LOAD: max file size: 105978
+[INFO    ] AUTO LOAD: max file size: 1.25829e+06
+[INFO    ] AUTO LOAD: max file size: 105978
+[INFO    ] AUTO LOAD: max file size: 1.25829e+06
+[INFO    ] AUTO LOAD: max file size: 105978
+[INFO    ] AUTO LOAD: max file size: 1.25829e+06
+[INFO    ] AUTO LOAD: max file size: 105978
+[INFO    ] AUTO LOAD: max file size: 1.25829e+06
+[INFO    ] AUTO LOAD: max file size: 1.25829e+06
+[INFO    ] *********************************************
+[INFO    ] *** Session started @ 2018-07-11 15:27:43 ***
+[INFO    ] *********************************************
+[INFO    ] $ Logging to console $
+[INFO    ] $ Logging to file 'python.log' $
+[CRITICAL] Caught in rm.py::_Runner.run() --- Combo failed! See below:
+! Error found in file 'session-5/fortran.log', line 34::
+!   <<
+!     (HALTING ) ::  glog 4.5 is outside interval [0.5, 3.5]
+!     (HALTING ) :: Use '--allow T' option to bypass this
+!   >>
+[CRITICAL] Caught in rm.py::_Runner.run() --- Combo failed! See below:
+! Error found in file 'session-6/fortran.log', line 34::
+!   <<
+!     (HALTING ) ::  glog 4.5 is outside interval [0.5, 3.5]
+!     (HALTING ) :: Use '--allow T' option to bypass this
+!   >>
+[INFO    ] AUTO LOAD: max file size: 529130
+[INFO    ] Imported collaborator package 'f311'
+[INFO    ] Imported collaborator package 'pyfant'
+[WARNING ] Failed to import package 'aosss
+[WARNING ] Failed to import package 'convmolworks
+[WARNING ] Failed to import package 'ariastro
+[INFO    ] *********************************************
+[INFO    ] *** Session started @ 2018-07-11 17:27:53 ***
+[INFO    ] *********************************************
+[INFO    ] $ Logging to console $
+[INFO    ] $ Logging to file 'python.log' $
+[INFO    ] *********************************************
+[INFO    ] *** Session started @ 2018-07-11 17:28:03 ***
+[INFO    ] *********************************************
+[INFO    ] $ Logging to console $
+[INFO    ] $ Logging to file 'python.log' $
+[INFO    ] AUTO LOAD: max file size: 1.25829e+06
+[INFO    ] Imported collaborator package 'f311'
+[INFO    ] Imported collaborator package 'pyfant'
+[WARNING ] Failed to import package 'aosss
+[WARNING ] Failed to import package 'convmolworks
+[WARNING ] Failed to import package 'ariastro
+[INFO    ] AUTO LOAD: max file size: 529130
+[INFO    ] AUTO LOAD: max file size: 1.25829e+06
+[INFO    ] AUTO LOAD: max file size: 529130
+[INFO    ] *********************************************
+[INFO    ] *** Session started @ 2018-07-11 17:42:19 ***
+[INFO    ] *********************************************
+[INFO    ] $ Logging to console $
+[INFO    ] $ Logging to file 'python.log' $
+[INFO    ] AUTO LOAD: max file size: 1.25829e+06
+[INFO    ] Imported collaborator package 'f311'
+[INFO    ] Imported collaborator package 'pyfant'
+[WARNING ] Failed to import package 'aosss
+[WARNING ] Failed to import package 'convmolworks
+[WARNING ] Failed to import package 'ariastro
+[INFO    ] AUTO LOAD: max file size: 529130
+[INFO    ] *********************************************
+[INFO    ] *** Session started @ 2018-07-15 09:05:27 ***
+[INFO    ] *********************************************
+[INFO    ] $ Logging to console $
+[INFO    ] $ Logging to file 'python.log' $
+[ERROR   ] Updating Options object
+Traceback (most recent call last):
+  File "/home/tatiana/anaconda3/lib/python3.5/site-packages/pyfant/gui/a_WOptionsEditor.py", line 745, in __update_data
+    raise RuntimeError("llzero must be lower than llfin")
+RuntimeError: llzero must be lower than llfin
+[ERROR   ] Updating Options object
+Traceback (most recent call last):
+  File "/home/tatiana/anaconda3/lib/python3.5/site-packages/pyfant/gui/a_WOptionsEditor.py", line 745, in __update_data
+    raise RuntimeError("llzero must be lower than llfin")
+RuntimeError: llzero must be lower than llfin
+[ERROR   ] Updating Options object
+Traceback (most recent call last):
+  File "/home/tatiana/anaconda3/lib/python3.5/site-packages/pyfant/gui/a_WOptionsEditor.py", line 745, in __update_data
+    raise RuntimeError("llzero must be lower than llfin")
+RuntimeError: llzero must be lower than llfin
+[INFO    ] AUTO LOAD: max file size: 105872
+[INFO    ] Imported collaborator package 'f311'
+[INFO    ] Imported collaborator package 'pyfant'
+[WARNING ] Failed to import package 'aosss
+[WARNING ] Failed to import package 'convmolworks
+[WARNING ] Failed to import package 'ariastro
+[INFO    ] AUTO LOAD: max file size: 105872
+[INFO    ] *********************************************
+[INFO    ] *** Session started @ 2018-07-15 18:34:05 ***
+[INFO    ] *********************************************
+[INFO    ] $ Logging to console $
+[INFO    ] $ Logging to file 'python.log' $
+[INFO    ] Setting output filename to 'grid.moo'
+[ERROR   ] Error loading file './grid.mod', skipping...
+Traceback (most recent call last):
+  File "/home/tatiana/anaconda3/bin/create-grid.py", line 78, in <module>
+    f.load(filename)
+  File "/home/tatiana/anaconda3/lib/python3.5/site-packages/f311/filetypes/datafile.py", line 96, in load
+    self._do_load(filename)
+  File "/home/tatiana/anaconda3/lib/python3.5/site-packages/pyfant/filetypes/filemod.py", line 137, in _do_load
+    raise RuntimeError("File must be a text file")
+RuntimeError: File must be a text file
+[ERROR   ] Error loading file './modeles.mod', skipping...
+Traceback (most recent call last):
+  File "/home/tatiana/anaconda3/bin/create-grid.py", line 78, in <module>
+    f.load(filename)
+  File "/home/tatiana/anaconda3/lib/python3.5/site-packages/f311/filetypes/datafile.py", line 96, in load
+    self._do_load(filename)
+  File "/home/tatiana/anaconda3/lib/python3.5/site-packages/pyfant/filetypes/filemod.py", line 137, in _do_load
+    raise RuntimeError("File must be a text file")
+RuntimeError: File must be a text file
