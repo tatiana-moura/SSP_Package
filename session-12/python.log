@@ -1,0 +1,30 @@
+[INFO    ] *********************************************
+[INFO    ] *** Session started @ 2018-07-15 18:33:05 ***
+[INFO    ] *********************************************
+[INFO    ] $ Logging to console $
+[INFO    ] $ Logging to file 'python.log' $
+[INFO    ] Setting output filename to 'grid.moo'
+[ERROR   ] Error loading file './grid.mod', skipping...
+Traceback (most recent call last):
+  File "/home/tatiana/anaconda3/bin/create-grid.py", line 78, in <module>
+    f.load(filename)
+  File "/home/tatiana/anaconda3/lib/python3.5/site-packages/f311/filetypes/datafile.py", line 96, in load
+    self._do_load(filename)
+  File "/home/tatiana/anaconda3/lib/python3.5/site-packages/pyfant/filetypes/filemod.py", line 137, in _do_load
+    raise RuntimeError("File must be a text file")
+RuntimeError: File must be a text file
+[ERROR   ] Error loading file './modeles.mod', skipping...
+Traceback (most recent call last):
+  File "/home/tatiana/anaconda3/bin/create-grid.py", line 78, in <module>
+    f.load(filename)
+  File "/home/tatiana/anaconda3/lib/python3.5/site-packages/f311/filetypes/datafile.py", line 96, in load
+    self._do_load(filename)
+  File "/home/tatiana/anaconda3/lib/python3.5/site-packages/pyfant/filetypes/filemod.py", line 137, in _do_load
+    raise RuntimeError("File must be a text file")
+RuntimeError: File must be a text file
+[INFO    ] *********************************************
+[INFO    ] *** Session started @ 2018-07-15 18:41:13 ***
+[INFO    ] *********************************************
+[INFO    ] $ Logging to console $
+[INFO    ] $ Logging to file 'python.log' $
+[INFO    ] File not found: 'options.py'

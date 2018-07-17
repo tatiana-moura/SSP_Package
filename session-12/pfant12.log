@@ -1,0 +1,270 @@
+----------------------- INPUT PARAMETERS -----------------------
+----------------------------------------------------------------
+System time:  2018-07-16 14:47:57
+Isochrone age:               12.50 Gyr
+Wavelength limits:            8400 -   8600 A
+Microturbulence velocity:     2.00 km/s
+FWHM:                         0.20 A
+Abundances:
+  [Fe/H]  [a/Fe]  [C/Fe]  [N/Fe]  [O/Fe] [Mg/Fe] [Si/Fe] [Ca/Fe] [Ti/Fe] [Na/Fe]
+    0.20    0.10    0.00    0.00    0.10    0.10    0.10    0.10    0.10    0.00
+Reading stellar parameters from:  ./Stellar_pars/stpars_fe+0.20a+0.10age12.5ms09rg08.dat
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+
+----------------------- INPUT PARAMETERS -----------------------
+----------------------------------------------------------------
+System time:  2018-07-16 14:50:52
+Isochrone age:               12.50 Gyr
+Wavelength limits:            8400 -   8600 A
+Microturbulence velocity:     2.00 km/s
+FWHM:                         0.20 A
+Abundances:
+  [Fe/H]  [a/Fe]  [C/Fe]  [N/Fe]  [O/Fe] [Mg/Fe] [Si/Fe] [Ca/Fe] [Ti/Fe] [Na/Fe]
+    0.20    0.10    0.00    0.00    0.10    0.10    0.10    0.10    0.10    0.00
+Reading stellar parameters from:  ./Stellar_pars/stpars_fe+0.20a+0.10age12.5ms09rg08.dat
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+
+Calculating synthetic stellar spectra: (Teff, logg) = (3167, 5.23)
+Starting at:  2018-07-16 14:50:52
+Calculating synthetic stellar spectra: (Teff, logg) = (3454, 4.84)
+Starting at:  2018-07-16 14:50:52
+Calculating synthetic stellar spectra: (Teff, logg) = (3695, 4.73)
+Starting at:  2018-07-16 14:50:52
+Calculating synthetic stellar spectra: (Teff, logg) = (3959, 4.66)
+Starting at:  2018-07-16 14:50:52
+Calculating synthetic stellar spectra: (Teff, logg) = (4203, 4.62)
+Starting at:  2018-07-16 14:50:52
+Calculating synthetic stellar spectra: (Teff, logg) = (4475, 4.59)
+Starting at:  2018-07-16 14:50:52
+Calculating synthetic stellar spectra: (Teff, logg) = (4733, 4.55)
+Starting at:  2018-07-16 14:50:52
+Calculating synthetic stellar spectra: (Teff, logg) = (5013, 4.51)
+Starting at:  2018-07-16 14:50:52
+Calculating synthetic stellar spectra: (Teff, logg) = (5263, 4.44)
+Starting at:  2018-07-16 14:50:52
+Calculating synthetic stellar spectra: (Teff, logg) = (5531, 4.22)
+Starting at:  2018-07-16 14:50:52
+Calculating synthetic stellar spectra: (Teff, logg) = (5224, 3.98)
+Starting at:  2018-07-16 14:50:53
+Calculating synthetic stellar spectra: (Teff, logg) = (4896, 3.82)
+Starting at:  2018-07-16 14:50:53
+Calculating synthetic stellar spectra: (Teff, logg) = (4593, 2.87)
+Starting at:  2018-07-16 14:50:53
+Calculating synthetic stellar spectra: (Teff, logg) = (4261, 2.13)
+Starting at:  2018-07-16 14:50:53
+Calculating synthetic stellar spectra: (Teff, logg) = (3979, 1.59)
+Starting at:  2018-07-16 14:50:53
+Calculating synthetic stellar spectra: (Teff, logg) = (3639, 0.98)
+Starting at:  2018-07-16 14:50:53
+Calculating synthetic stellar spectra: (Teff, logg) = (3335, 0.45)
+Starting at:  2018-07-16 14:50:53
+Calculating synthetic stellar spectra: (Teff, logg) = (3021, -0.09)
+Starting at:  2018-07-16 14:50:53
+----------------------- INPUT PARAMETERS -----------------------
+----------------------------------------------------------------
+System time:  2018-07-16 14:53:35
+Isochrone age:               12.50 Gyr
+Wavelength limits:            8400 -   8600 A
+Microturbulence velocity:     2.00 km/s
+FWHM:                         0.20 A
+Abundances:
+  [Fe/H]  [a/Fe]  [C/Fe]  [N/Fe]  [O/Fe] [Mg/Fe] [Si/Fe] [Ca/Fe] [Ti/Fe] [Na/Fe]
+    0.20    0.10    0.00    0.00    0.10    0.10    0.10    0.10    0.10    0.00
+Reading stellar parameters from:  ./Stellar_pars/stpars_fe+0.20a+0.10age12.5ms09rg08.dat
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+
+Calculating synthetic stellar spectra: (Teff, logg) = (3167, 5.23)
+Starting at:  2018-07-16 14:53:35
+Calculating synthetic stellar spectra: (Teff, logg) = (3454, 4.84)
+Starting at:  2018-07-16 14:53:35
+Calculating synthetic stellar spectra: (Teff, logg) = (3695, 4.73)
+Starting at:  2018-07-16 14:53:35
+Calculating synthetic stellar spectra: (Teff, logg) = (3959, 4.66)
+Starting at:  2018-07-16 14:53:35
+Calculating synthetic stellar spectra: (Teff, logg) = (4203, 4.62)
+Starting at:  2018-07-16 14:53:35
+Calculating synthetic stellar spectra: (Teff, logg) = (4475, 4.59)
+Starting at:  2018-07-16 14:53:35
+Calculating synthetic stellar spectra: (Teff, logg) = (4733, 4.55)
+Starting at:  2018-07-16 14:53:35
+Calculating synthetic stellar spectra: (Teff, logg) = (5013, 4.51)
+Starting at:  2018-07-16 14:53:35
+Calculating synthetic stellar spectra: (Teff, logg) = (5263, 4.44)
+Starting at:  2018-07-16 14:53:35
+Calculating synthetic stellar spectra: (Teff, logg) = (5531, 4.22)
+Starting at:  2018-07-16 14:53:35
+Calculating synthetic stellar spectra: (Teff, logg) = (5224, 3.98)
+Starting at:  2018-07-16 14:53:35
+Calculating synthetic stellar spectra: (Teff, logg) = (4896, 3.82)
+Starting at:  2018-07-16 14:53:35
+Calculating synthetic stellar spectra: (Teff, logg) = (4593, 2.87)
+Starting at:  2018-07-16 14:53:35
+Calculating synthetic stellar spectra: (Teff, logg) = (4261, 2.13)
+Starting at:  2018-07-16 14:53:35
+Calculating synthetic stellar spectra: (Teff, logg) = (3979, 1.59)
+Starting at:  2018-07-16 14:53:35
+Calculating synthetic stellar spectra: (Teff, logg) = (3639, 0.98)
+Starting at:  2018-07-16 14:53:35
+Calculating synthetic stellar spectra: (Teff, logg) = (3335, 0.45)
+Starting at:  2018-07-16 14:53:35
+Calculating synthetic stellar spectra: (Teff, logg) = (3021, -0.09)
+Starting at:  2018-07-16 14:53:35
+----------------------- INPUT PARAMETERS -----------------------
+----------------------------------------------------------------
+System time:  2018-07-16 14:54:07
+Isochrone age:               12.50 Gyr
+Wavelength limits:            8400 -   8600 A
+Microturbulence velocity:     2.00 km/s
+FWHM:                         0.20 A
+Abundances:
+  [Fe/H]  [a/Fe]  [C/Fe]  [N/Fe]  [O/Fe] [Mg/Fe] [Si/Fe] [Ca/Fe] [Ti/Fe] [Na/Fe]
+    0.20    0.10    0.00    0.00    0.10    0.10    0.10    0.10    0.10    0.00
+Reading stellar parameters from:  ./Stellar_pars/stpars_fe+0.20a+0.10age12.5ms09rg08.dat
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+
+Calculating synthetic stellar spectra: (Teff, logg) = (3167, 5.23)
+Starting at:  2018-07-16 14:54:07
+Calculating synthetic stellar spectra: (Teff, logg) = (3454, 4.84)
+Starting at:  2018-07-16 14:54:07
+Calculating synthetic stellar spectra: (Teff, logg) = (3695, 4.73)
+Starting at:  2018-07-16 14:54:07
+Calculating synthetic stellar spectra: (Teff, logg) = (3959, 4.66)
+Starting at:  2018-07-16 14:54:07
+Calculating synthetic stellar spectra: (Teff, logg) = (4203, 4.62)
+Starting at:  2018-07-16 14:54:07
+Calculating synthetic stellar spectra: (Teff, logg) = (4475, 4.59)
+Starting at:  2018-07-16 14:54:07
+Calculating synthetic stellar spectra: (Teff, logg) = (4733, 4.55)
+Starting at:  2018-07-16 14:54:07
+Calculating synthetic stellar spectra: (Teff, logg) = (5013, 4.51)
+Starting at:  2018-07-16 14:54:07
+Calculating synthetic stellar spectra: (Teff, logg) = (5263, 4.44)
+Starting at:  2018-07-16 14:54:07
+Calculating synthetic stellar spectra: (Teff, logg) = (5531, 4.22)
+Starting at:  2018-07-16 14:54:07
+Calculating synthetic stellar spectra: (Teff, logg) = (5224, 3.98)
+Starting at:  2018-07-16 14:54:07
+Calculating synthetic stellar spectra: (Teff, logg) = (4896, 3.82)
+Starting at:  2018-07-16 14:54:07
+Calculating synthetic stellar spectra: (Teff, logg) = (4593, 2.87)
+Starting at:  2018-07-16 14:54:07
+Calculating synthetic stellar spectra: (Teff, logg) = (4261, 2.13)
+Starting at:  2018-07-16 14:54:07
+Calculating synthetic stellar spectra: (Teff, logg) = (3979, 1.59)
+Starting at:  2018-07-16 14:54:07
+Calculating synthetic stellar spectra: (Teff, logg) = (3639, 0.98)
+Starting at:  2018-07-16 14:54:07
+Calculating synthetic stellar spectra: (Teff, logg) = (3335, 0.45)
+Starting at:  2018-07-16 14:54:07
+Calculating synthetic stellar spectra: (Teff, logg) = (3021, -0.09)
+Starting at:  2018-07-16 14:54:07
+----------------------- INPUT PARAMETERS -----------------------
+----------------------------------------------------------------
+System time:  2018-07-16 14:54:43
+Isochrone age:               12.50 Gyr
+Wavelength limits:            8400 -   8600 A
+Microturbulence velocity:     2.00 km/s
+FWHM:                         0.20 A
+Abundances:
+  [Fe/H]  [a/Fe]  [C/Fe]  [N/Fe]  [O/Fe] [Mg/Fe] [Si/Fe] [Ca/Fe] [Ti/Fe] [Na/Fe]
+    0.20    0.10    0.00    0.00    0.10    0.10    0.10    0.10    0.10    0.00
+Reading stellar parameters from:  ./Stellar_pars/stpars_fe+0.20a+0.10age12.5ms09rg08.dat
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+
+Calculating synthetic stellar spectra: (Teff, logg) = (3167, 5.23)
+Starting at:  2018-07-16 14:54:43
+Calculating synthetic stellar spectra: (Teff, logg) = (3454, 4.84)
+Starting at:  2018-07-16 14:54:43
+Calculating synthetic stellar spectra: (Teff, logg) = (3695, 4.73)
+Starting at:  2018-07-16 14:54:43
+Calculating synthetic stellar spectra: (Teff, logg) = (3959, 4.66)
+Starting at:  2018-07-16 14:54:43
+Calculating synthetic stellar spectra: (Teff, logg) = (4203, 4.62)
+Starting at:  2018-07-16 14:54:43
+Calculating synthetic stellar spectra: (Teff, logg) = (4475, 4.59)
+Starting at:  2018-07-16 14:54:43
+Calculating synthetic stellar spectra: (Teff, logg) = (4733, 4.55)
+Starting at:  2018-07-16 14:54:43
+Calculating synthetic stellar spectra: (Teff, logg) = (5013, 4.51)
+Starting at:  2018-07-16 14:54:43
+Calculating synthetic stellar spectra: (Teff, logg) = (5263, 4.44)
+Starting at:  2018-07-16 14:54:43
+Calculating synthetic stellar spectra: (Teff, logg) = (5531, 4.22)
+Starting at:  2018-07-16 14:54:43
+Calculating synthetic stellar spectra: (Teff, logg) = (5224, 3.98)
+Starting at:  2018-07-16 14:54:43
+Calculating synthetic stellar spectra: (Teff, logg) = (4896, 3.82)
+Starting at:  2018-07-16 14:54:43
+Calculating synthetic stellar spectra: (Teff, logg) = (4593, 2.87)
+Starting at:  2018-07-16 14:54:43
+Calculating synthetic stellar spectra: (Teff, logg) = (4261, 2.13)
+Starting at:  2018-07-16 14:54:44
+Calculating synthetic stellar spectra: (Teff, logg) = (3979, 1.59)
+Starting at:  2018-07-16 14:54:44
+Calculating synthetic stellar spectra: (Teff, logg) = (3639, 0.98)
+Starting at:  2018-07-16 14:54:44
+Calculating synthetic stellar spectra: (Teff, logg) = (3335, 0.45)
+Starting at:  2018-07-16 14:54:44
+Calculating synthetic stellar spectra: (Teff, logg) = (3021, -0.09)
+Starting at:  2018-07-16 14:54:44
+----------------------- INPUT PARAMETERS -----------------------
+----------------------------------------------------------------
+System time:  2018-07-16 14:56:03
+Isochrone age:               12.50 Gyr
+Wavelength limits:            8400 -   8600 A
+Microturbulence velocity:     2.00 km/s
+FWHM:                         0.20 A
+Abundances:
+  [Fe/H]  [a/Fe]  [C/Fe]  [N/Fe]  [O/Fe] [Mg/Fe] [Si/Fe] [Ca/Fe] [Ti/Fe] [Na/Fe]
+    0.20    0.10    0.00    0.00    0.10    0.10    0.10    0.10    0.10    0.00
+Reading stellar parameters from:  ./Stellar_pars/stpars_fe+0.20a+0.10age12.5ms09rg08.dat
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+
+Calculating synthetic stellar spectra: (Teff, logg) = (3167, 5.23)
+Starting at:  2018-07-16 14:56:03
+Calculating synthetic stellar spectra: (Teff, logg) = (3454, 4.84)
+Starting at:  2018-07-16 14:56:03
+Calculating synthetic stellar spectra: (Teff, logg) = (3695, 4.73)
+Starting at:  2018-07-16 14:56:03
+Calculating synthetic stellar spectra: (Teff, logg) = (3959, 4.66)
+Starting at:  2018-07-16 14:56:03
+Calculating synthetic stellar spectra: (Teff, logg) = (4203, 4.62)
+Starting at:  2018-07-16 14:56:03
+Calculating synthetic stellar spectra: (Teff, logg) = (4475, 4.59)
+Starting at:  2018-07-16 14:56:03
+Calculating synthetic stellar spectra: (Teff, logg) = (4733, 4.55)
+Starting at:  2018-07-16 14:56:03
+Calculating synthetic stellar spectra: (Teff, logg) = (5013, 4.51)
+Starting at:  2018-07-16 14:56:03
+Calculating synthetic stellar spectra: (Teff, logg) = (5263, 4.44)
+Starting at:  2018-07-16 14:56:03
+Calculating synthetic stellar spectra: (Teff, logg) = (5531, 4.22)
+Starting at:  2018-07-16 14:56:03
+Calculating synthetic stellar spectra: (Teff, logg) = (5224, 3.98)
+Starting at:  2018-07-16 14:56:03
+Calculating synthetic stellar spectra: (Teff, logg) = (4896, 3.82)
+Starting at:  2018-07-16 14:56:03
+Calculating synthetic stellar spectra: (Teff, logg) = (4593, 2.87)
+Starting at:  2018-07-16 14:56:03
+Calculating synthetic stellar spectra: (Teff, logg) = (4261, 2.13)
+Starting at:  2018-07-16 14:56:03
+Calculating synthetic stellar spectra: (Teff, logg) = (3979, 1.59)
+Starting at:  2018-07-16 14:56:03
+Calculating synthetic stellar spectra: (Teff, logg) = (3639, 0.98)
+Starting at:  2018-07-16 14:56:03
+Calculating synthetic stellar spectra: (Teff, logg) = (3335, 0.45)
+Starting at:  2018-07-16 14:56:03
+Calculating synthetic stellar spectra: (Teff, logg) = (3021, -0.09)
+Starting at:  2018-07-16 14:56:03
